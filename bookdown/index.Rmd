@@ -15,7 +15,7 @@ fontsize: 12pt
 monofontoptions: "Scale=0.8"
 keep_md: yes
 site: bookdown::bookdown_site
-description: "Introducción a Probabilidad y Estadística Matemática en R con aplicaciones en Finanzas."
+description: ""
 url: 'http\://synergy.vision/Procesos-Estocasticos-en-R/'
 github-repo: synergyvision/Procesos-Estocasticos-en-R/
 cover-image: images/cover.png
